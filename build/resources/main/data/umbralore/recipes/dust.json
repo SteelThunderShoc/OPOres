@@ -1,0 +1,19 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "umbralore:handcrusher"
+    },
+    "1": {
+      "item": "umbralore:umbroncrystal"
+    }
+  },
+  "result": {
+    "item": "umbralore:umbrondust",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:umbroningot"
+    },
+    "4": {
+      "item": "opores:titaniumrod"
+    },
+    "8": {
+      "item": "opores:titaniumhalfrod"
+    }
+  },
+  "result": {
+    "item": "opores:umbronshovel",
+    "count": 1
+  }
+}

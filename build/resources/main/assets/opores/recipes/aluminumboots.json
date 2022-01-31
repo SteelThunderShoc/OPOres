@@ -1,0 +1,26 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:aluminum"
+    },
+    "2": {
+      "item": "opores:aluminum"
+    },
+    "3": {
+      "item": "opores:aluminum"
+    },
+    "5": {
+      "item": "opores:aluminum"
+    }
+  },
+  "result": {
+    "item": "opores:aluminumarmorboots",
+    "count": 1
+  }
+}

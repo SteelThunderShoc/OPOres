@@ -1,0 +1,13 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "umbralore:umbronblock"
+    }
+  ],
+  "result": {
+    "item": "umbralore:umbroningot",
+    "count": 9
+  }
+}

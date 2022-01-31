@@ -1,0 +1,11 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "umbralore:titaniumingot"
+  },
+  "result": {
+    "item": "umbralore:titaniumrod"
+  }
+}

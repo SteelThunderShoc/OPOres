@@ -1,0 +1,154 @@
+Unsupposrted library path: C:\Users\frank\MCreatorWorkspaces\OPOres\build\classes\java\api
+Unsupposrted library path: C:\Users\frank\MCreatorWorkspaces\OPOres\build\resources\api
+Symbol range map extraction starting
+Processing 50 files
+startProcessing "net/mcreator/opores/ClientProxyOPOres.java" md5: dc411d1db00e89ac79af8472bee0fcab
+endProcessing "net/mcreator/opores/ClientProxyOPOres.java"
+
+startProcessing "net/mcreator/opores/ElementsOPOres.java" md5: 204ac5f3993816c4cb05df91519d2d7e
+endProcessing "net/mcreator/opores/ElementsOPOres.java"
+
+startProcessing "net/mcreator/opores/IProxyOPOres.java" md5: fc1f0477b05619f0b3dae880b7f5918c
+endProcessing "net/mcreator/opores/IProxyOPOres.java"
+
+startProcessing "net/mcreator/opores/Memes.java" md5: 3a5441a5e1a3e3e0d71db6ab84abb525
+endProcessing "net/mcreator/opores/Memes.java"
+
+startProcessing "net/mcreator/opores/OPOres.java" md5: c4fe7466385abf48c6bda51855ec584a
+endProcessing "net/mcreator/opores/OPOres.java"
+
+startProcessing "net/mcreator/opores/OPOresVariables.java" md5: e598e5e678f2606b8be74a04bf89837e
+endProcessing "net/mcreator/opores/OPOresVariables.java"
+
+startProcessing "net/mcreator/opores/ServerProxyOPOres.java" md5: b9fe069b1d95e41dfbd1446341aa0d6b
+endProcessing "net/mcreator/opores/ServerProxyOPOres.java"
+
+startProcessing "net/mcreator/opores/block/BlockAluminumOre.java" md5: ec28bcba62310816a026665359cdfe15
+endProcessing "net/mcreator/opores/block/BlockAluminumOre.java"
+
+startProcessing "net/mcreator/opores/block/BlockAluminumblock.java" md5: 9fe1751aa62c2e97077ea84ce0c12a3f
+endProcessing "net/mcreator/opores/block/BlockAluminumblock.java"
+
+startProcessing "net/mcreator/opores/block/BlockCrusherblock.java" md5: 57f3af444013eb09e11aa7a4274a4f6f
+endProcessing "net/mcreator/opores/block/BlockCrusherblock.java"
+
+startProcessing "net/mcreator/opores/block/BlockFairyGrass.java" md5: 4f05f2a4d5cdf7a374fe33db3e6d26f9
+endProcessing "net/mcreator/opores/block/BlockFairyGrass.java"
+
+startProcessing "net/mcreator/opores/block/BlockTitaniumOre.java" md5: fcc80f95f2cdf707b067bbbaecf98f41
+endProcessing "net/mcreator/opores/block/BlockTitaniumOre.java"
+
+startProcessing "net/mcreator/opores/block/BlockUmbronBlock.java" md5: aa6583288e963e40265e2ad48e702938
+endProcessing "net/mcreator/opores/block/BlockUmbronBlock.java"
+
+startProcessing "net/mcreator/opores/block/BlockUmbronore.java" md5: 1dfb7c7669a49e34ecaea5684e80cd79
+endProcessing "net/mcreator/opores/block/BlockUmbronore.java"
+
+startProcessing "net/mcreator/opores/command/CommandPenis.java" md5: 20af51a1019eea82a758949067acb2ab
+endProcessing "net/mcreator/opores/command/CommandPenis.java"
+
+startProcessing "net/mcreator/opores/creativetab/TabOPOres.java" md5: 34e71223abe314cd313eb46a39e0f8e0
+endProcessing "net/mcreator/opores/creativetab/TabOPOres.java"
+
+startProcessing "net/mcreator/opores/gui/GuiCrusher.java" md5: 9b988a0853f629a46374fcbca3c4ff2b
+endProcessing "net/mcreator/opores/gui/GuiCrusher.java"
+
+startProcessing "net/mcreator/opores/item/ItemAluminum.java" md5: 5a3dd59446fe4354ea640ac82b426acb
+endProcessing "net/mcreator/opores/item/ItemAluminum.java"
+
+startProcessing "net/mcreator/opores/item/ItemAluminumArmor.java" md5: 14c7435a891660f9371d612540f58c85
+endProcessing "net/mcreator/opores/item/ItemAluminumArmor.java"
+
+startProcessing "net/mcreator/opores/item/ItemAluminumDust.java" md5: c1280898b4d93f75df1cd5531f8171fd
+endProcessing "net/mcreator/opores/item/ItemAluminumDust.java"
+
+startProcessing "net/mcreator/opores/item/ItemAluminumPickaxe.java" md5: 045f9037e1780726f83e592d13517f11
+endProcessing "net/mcreator/opores/item/ItemAluminumPickaxe.java"
+
+startProcessing "net/mcreator/opores/item/ItemAluminumshovel.java" md5: 3650a3ba1fd51cf84b023a402b646ce3
+endProcessing "net/mcreator/opores/item/ItemAluminumshovel.java"
+
+startProcessing "net/mcreator/opores/item/ItemCutter.java" md5: bcdaa377ffed240c2f07706088d9c0e6
+endProcessing "net/mcreator/opores/item/ItemCutter.java"
+
+startProcessing "net/mcreator/opores/item/ItemFairyDust.java" md5: 73f214933c59e9f0e9107e6403538b69
+endProcessing "net/mcreator/opores/item/ItemFairyDust.java"
+
+startProcessing "net/mcreator/opores/item/ItemFairyIngot.java" md5: 7ae2591e104ecaf52d034ca6fc274b0c
+endProcessing "net/mcreator/opores/item/ItemFairyIngot.java"
+
+startProcessing "net/mcreator/opores/item/ItemHandCrusher.java" md5: 5e914467dcdb204adac3e79efba7a67d
+endProcessing "net/mcreator/opores/item/ItemHandCrusher.java"
+
+startProcessing "net/mcreator/opores/item/ItemIngotBucket.java" md5: 4c264a5f57fecf4a2dd6ca4dfc94a3df
+endProcessing "net/mcreator/opores/item/ItemIngotBucket.java"
+
+startProcessing "net/mcreator/opores/item/ItemSeive.java" md5: f4431968d95ff22390598c336e7a733b
+endProcessing "net/mcreator/opores/item/ItemSeive.java"
+
+startProcessing "net/mcreator/opores/item/ItemTitaniumBucket.java" md5: 787e256faa324a34aa876262f397379a
+endProcessing "net/mcreator/opores/item/ItemTitaniumBucket.java"
+
+startProcessing "net/mcreator/opores/item/ItemTitaniumChunk.java" md5: e1c238c0c29d55e3b477823579ae166f
+endProcessing "net/mcreator/opores/item/ItemTitaniumChunk.java"
+
+startProcessing "net/mcreator/opores/item/ItemTitaniumHalfRod.java" md5: ab4edd6fb25c71a54e33d9ef1c2f17cb
+endProcessing "net/mcreator/opores/item/ItemTitaniumHalfRod.java"
+
+startProcessing "net/mcreator/opores/item/ItemTitaniumingot.java" md5: 26c2b85902589852d708239ae1e80610
+endProcessing "net/mcreator/opores/item/ItemTitaniumingot.java"
+
+startProcessing "net/mcreator/opores/item/ItemTitaniumrod.java" md5: 267eb4ca2b7e5e5cf58cdbde03355e4e
+endProcessing "net/mcreator/opores/item/ItemTitaniumrod.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbron.java" md5: 912a250baab7c4288b0d90f6f0abda64
+endProcessing "net/mcreator/opores/item/ItemUmbron.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbronBucket.java" md5: 5f7221411a79a954102b984406776ea1
+endProcessing "net/mcreator/opores/item/ItemUmbronBucket.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbronDust.java" md5: faf4b0744e79578b929f0ccd87de490c
+endProcessing "net/mcreator/opores/item/ItemUmbronDust.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbronPickaxe.java" md5: 7b058a632281f091eeccc1dd7c6cc2cb
+endProcessing "net/mcreator/opores/item/ItemUmbronPickaxe.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbroncrystal.java" md5: 3b70ed80f16d1b5eead10adf90cc2b0f
+endProcessing "net/mcreator/opores/item/ItemUmbroncrystal.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbroningot.java" md5: 660b763c4670dffa8a22fe0c84f25842
+endProcessing "net/mcreator/opores/item/ItemUmbroningot.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbronshovel.java" md5: 3bc6dcd3eee285b56df380e6cf6584ec
+endProcessing "net/mcreator/opores/item/ItemUmbronshovel.java"
+
+startProcessing "net/mcreator/opores/item/ItemUmbronsword.java" md5: 245da88d2620c04214c140ea87dc48c1
+endProcessing "net/mcreator/opores/item/ItemUmbronsword.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeAluminumIngot.java" md5: f3a4408add5ea696c69d16bc89102fb0
+endProcessing "net/mcreator/opores/item/crafting/RecipeAluminumIngot.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeFairySmell.java" md5: df0d0ed83621baeed5436cb62ed63b4e
+endProcessing "net/mcreator/opores/item/crafting/RecipeFairySmell.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeIngotMaking.java" md5: 4531df2c4f98c4af68030ed54b8e2cb3
+endProcessing "net/mcreator/opores/item/crafting/RecipeIngotMaking.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeMeltedBucky.java" md5: 59aa2148bb3258cced41f3f06cf9260b
+endProcessing "net/mcreator/opores/item/crafting/RecipeMeltedBucky.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeRodMaking.java" md5: 000353609b64abfbf17ca1db7f8b8b18
+endProcessing "net/mcreator/opores/item/crafting/RecipeRodMaking.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeTITINGOT.java" md5: 1cf0450f0ead879cba8a3ef6fd2d8ff0
+endProcessing "net/mcreator/opores/item/crafting/RecipeTITINGOT.java"
+
+startProcessing "net/mcreator/opores/item/crafting/RecipeUmIngot.java" md5: 2e10286ee6a4dd54553aa312ec32a8c8
+endProcessing "net/mcreator/opores/item/crafting/RecipeUmIngot.java"
+
+startProcessing "net/mcreator/opores/procedure/ProcedureCrusherProcedure.java" md5: 06b2842fd88bbca551c0416a3eeff550
+endProcessing "net/mcreator/opores/procedure/ProcedureCrusherProcedure.java"
+
+startProcessing "net/mcreator/opores/procedure/ProcedurePenisCommandExecuted.java" md5: 64e7118ede868cc67bbc17e02828f44c
+endProcessing "net/mcreator/opores/procedure/ProcedurePenisCommandExecuted.java"
+

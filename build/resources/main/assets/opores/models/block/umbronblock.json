@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opores:blocks/lock1",
+    "up": "opores:blocks/lock1",
+    "north": "opores:blocks/lock1",
+    "east": "opores:blocks/lock1",
+    "south": "opores:blocks/lock1",
+    "west": "opores:blocks/lock1",
+    "particle": "opores:blocks/lock1"
+  }
+}

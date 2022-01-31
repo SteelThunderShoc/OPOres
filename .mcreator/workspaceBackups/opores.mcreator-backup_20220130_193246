@@ -1,0 +1,633 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Umbroningot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmbronDust",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Umbronore",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Umbroncrystal",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Titaniumingot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Titaniumrod",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumHalfRod",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SwordRecipie",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HandCrusher",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dust",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Umbronsword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrusherRecipie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmIngot",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cutter",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cutting",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cutting1",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RodMaking",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Umbronshovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ShovelCrafting",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmbronPickaxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PickRecipie",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumChunk",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TITINGOT",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IngotMaking",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FairyDust",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FairyGrass",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Seive",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DustRecipie",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SeiveCrafting",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Umbron",
+      "type": "armor",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "UmbronBucket",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumBucket",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmbronBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmbronBlockRecipie",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UmbronIngotRecipie",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IngotBucket",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MeltBucky",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MeltedBucky",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FairyIngot",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FairySmell",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Aluminum",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumIngot",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PenisCommandExecuted",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Penis",
+      "type": "command",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AluminumHelmet",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumChestplate",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumLeggings",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumBoots",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Aluminumblock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Aluminumshovel",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AluminumPickaxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crusher",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "Crusherblock",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Huh",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Memes",
+      "type": "code",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "AluminumDust",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrusherProcedure",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OPOres",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrusherRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.umbralore.umbronhelmet": "Umbron Helmet",
+      "item.cutter.name": "Cutter",
+      "item.umbralore.titaniumchunk": "Titanium Chunk",
+      "item.titaniumbucket.name": "Titanium Bucket",
+      "item.umbralore.titaniumbucket": "Titanium Bucket",
+      "item.umbralore.titaniumingot": "Titaniumingot",
+      "item.titaniumingot.name": "Titaniumingot",
+      "tile.crusherblock.name": "Crusher",
+      "item.umbralore.fairydust": "Fairy Dust",
+      "item.seive.name": "Seive",
+      "item.aluminumarmorboots.name": "Aluminum Boots",
+      "item.umbrondust.name": "Umbron Dust",
+      "block.umbralore.umbronore": "Umbronore",
+      "item.umbronpickaxe.name": "Umbron Pickaxe",
+      "item.umbronhelmet.name": "Umbron Helmet",
+      "item.umbralore.umbronbucket": "Umbron Bucket",
+      "item.titaniumhalfrod.name": "Titanium Half Rod",
+      "item.umbralore.umbronpickaxe": "Umbron Pickaxe",
+      "advancements.huh.descr": "You obtained an aluminum pickaxe (And learned how OP it is)",
+      "block.umbralore.titaniumore": "Titanium Ore",
+      "item.ingotbucket.name": "Ingot Bucket",
+      "tile.aluminumblock.name": "Block of Aluminum",
+      "tile.umbronore.name": "Umbronore",
+      "item.umbralore.titaniumhalfrod": "Titanium Half Rod",
+      "item.umbronsword.name": "Umbronsword",
+      "item.aluminumshovel.name": "Aluminum Shovel",
+      "item.umbralore.seive": "Seive",
+      "item.umbralore.handcrusher": "Hand Crusher",
+      "item.fairyingot.name": "Fairy Ingot",
+      "tile.fairygrass.name": "Fairy Grass",
+      "item.umbralore.umbroningot": "Umbroningot",
+      "item.aluminumarmorlegs.name": "Aluminum Leggings",
+      "item.umbralore.ingotbucket": "Ingot Bucket",
+      "item.handcrusher.name": "Hand Crusher",
+      "item.umbralore.umbronshovel": "Umbronshovel",
+      "item.aluminumarmorhelmet.name": "Aluminum Helmet",
+      "item.umbronbody.name": "Umbron Chestplate",
+      "item.umbralore.umbrondust": "Umbron Dust",
+      "tile.umbronblock.name": "Umbron Block",
+      "item.aluminumdust.name": "Aluminum Dust",
+      "block.umbralore.umbronblock": "Umbron Block",
+      "item.umbronbucket.name": "Umbron Bucket",
+      "item.umbralore.cutter": "Cutter",
+      "item.titaniumchunk.name": "Titanium Chunk",
+      "item.aluminum.name": "Aluminum Ingot",
+      "item.aluminumpickaxe.name": "Aluminum Pickaxe",
+      "item.umbroncrystal.name": "Umbroncrystal",
+      "item.umbralore.umbronboots": "Umbron Boots",
+      "item.umbronlegs.name": "Umbron Leggings",
+      "item.umbronboots.name": "Umbron Boots",
+      "item.umbralore.umbronbody": "Umbron Chestplate",
+      "item.umbralore.titaniumrod": "Titaniumrod",
+      "tile.aluminumore.name": "Aluminum Ore",
+      "item.umbralore.umbronlegs": "Umbron Leggings",
+      "item.umbroningot.name": "Umbroningot",
+      "block.umbralore.fairygrass": "Fairy Grass",
+      "item.aluminumarmorbody.name": "Aluminum Chestplate",
+      "item.umbralore.umbronsword": "Umbronsword",
+      "advancements.huh.title": "Huh?",
+      "tile.titaniumore.name": "Titanium Ore",
+      "item.fairydust.name": "Fairy Dust",
+      "item.umbralore.umbroncrystal": "Umbroncrystal",
+      "item.titaniumrod.name": "Titaniumrod",
+      "item.umbronshovel.name": "Umbronshovel",
+      "item.umbralore.fairyingot": "Fairy Ingot",
+      "itemGroup.tabopores": "OP Ores"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "opores",
+    "modName": "OPOres",
+    "version": "1.0.0",
+    "author": "James, Frank, and MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.opores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

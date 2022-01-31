@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "opores:items/luminum_pickaxe"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "umbralore:seive"
+    },
+    {
+      "item": "umbralore:fairygrass"
+    }
+  ],
+  "result": {
+    "item": "umbralore:fairydust",
+    "count": 2
+  }
+}

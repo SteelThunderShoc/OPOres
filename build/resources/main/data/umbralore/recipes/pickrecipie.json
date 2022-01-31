@@ -1,0 +1,36 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "umbralore:titaniumhalfrod"
+    },
+    "1": {
+      "item": "umbralore:umbroningot"
+    },
+    "2": {
+      "item": "umbralore:umbroningot"
+    },
+    "3": {
+      "item": "umbralore:umbroningot"
+    },
+    "4": {
+      "item": "umbralore:titaniumrod"
+    },
+    "6": {
+      "item": "umbralore:umbroningot"
+    },
+    "8": {
+      "item": "umbralore:titaniumhalfrod"
+    }
+  },
+  "result": {
+    "item": "umbralore:umbronpickaxe",
+    "count": 1
+  }
+}

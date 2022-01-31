@@ -1,0 +1,27 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "  ",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "umbralore:handcrusher",
+    "count": 1
+  }
+}

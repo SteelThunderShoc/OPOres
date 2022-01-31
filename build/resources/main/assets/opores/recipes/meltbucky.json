@@ -1,0 +1,20 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:umbroningot"
+    },
+    "1": {
+      "item": "opores:titaniumbucket"
+    }
+  },
+  "result": {
+    "item": "opores:ingotbucket",
+    "count": 1
+  }
+}

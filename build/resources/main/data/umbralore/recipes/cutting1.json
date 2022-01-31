@@ -1,0 +1,16 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "umbralore:cutter"
+    },
+    {
+      "item": "umbralore:titaniumrod"
+    }
+  ],
+  "result": {
+    "item": "umbralore:titaniumhalfrod",
+    "count": 2
+  }
+}

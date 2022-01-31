@@ -1,0 +1,11 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "ingredient": {
+    "item": "umbralore:titaniumchunk"
+  },
+  "result": {
+    "item": "umbralore:titaniumingot"
+  }
+}

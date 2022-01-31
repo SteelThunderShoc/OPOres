@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opores:blocks/aluminum_ore",
+    "up": "opores:blocks/aluminum_ore",
+    "north": "opores:blocks/aluminum_ore",
+    "east": "opores:blocks/aluminum_ore",
+    "south": "opores:blocks/aluminum_ore",
+    "west": "opores:blocks/aluminum_ore",
+    "particle": "opores:blocks/aluminum_ore"
+  }
+}

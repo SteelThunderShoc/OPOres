@@ -1,0 +1,16 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opores:seive"
+    },
+    {
+      "item": "opores:fairygrass"
+    }
+  ],
+  "result": {
+    "item": "opores:fairydust",
+    "count": 2
+  }
+}

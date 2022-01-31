@@ -1,0 +1,29 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "opores:titaniumingot"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "opores:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "opores:seive",
+    "count": 1
+  }
+}

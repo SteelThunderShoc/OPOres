@@ -1,0 +1,19 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:handcrusher"
+    },
+    "1": {
+      "item": "opores:umbroncrystal"
+    }
+  },
+  "result": {
+    "item": "opores:umbrondust",
+    "count": 1
+  }
+}

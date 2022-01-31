@@ -1,0 +1,36 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:titaniumhalfrod"
+    },
+    "1": {
+      "item": "opores:umbroningot"
+    },
+    "2": {
+      "item": "opores:umbroningot"
+    },
+    "3": {
+      "item": "opores:umbroningot"
+    },
+    "4": {
+      "item": "opores:titaniumrod"
+    },
+    "6": {
+      "item": "opores:umbroningot"
+    },
+    "8": {
+      "item": "opores:titaniumhalfrod"
+    }
+  },
+  "result": {
+    "item": "opores:umbronpickaxe",
+    "count": 1
+  }
+}

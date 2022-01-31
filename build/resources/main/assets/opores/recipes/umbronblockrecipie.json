@@ -1,0 +1,42 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opores:umbroningot"
+    },
+    "1": {
+      "item": "opores:umbroningot"
+    },
+    "2": {
+      "item": "opores:umbroningot"
+    },
+    "3": {
+      "item": "opores:umbroningot"
+    },
+    "4": {
+      "item": "opores:umbroningot"
+    },
+    "5": {
+      "item": "opores:umbroningot"
+    },
+    "6": {
+      "item": "opores:umbroningot"
+    },
+    "7": {
+      "item": "opores:umbroningot"
+    },
+    "8": {
+      "item": "opores:umbroningot"
+    }
+  },
+  "result": {
+    "item": "opores:umbronblock",
+    "count": 1
+  }
+}

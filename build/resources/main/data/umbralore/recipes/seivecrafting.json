@@ -1,0 +1,29 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "umbralore:titaniumingot"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "umbralore:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "umbralore:seive",
+    "count": 1
+  }
+}

@@ -1,0 +1,1639 @@
+Processing 50 files
+Start Processing: net/mcreator/opores/ClientProxyOPOres.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.obj.OBJLoader
+End  Processing: net/mcreator/opores/ClientProxyOPOres.java
+
+Start Processing: net/mcreator/opores/ElementsOPOres.java
+FOUND CONSTR method net/mcreator/opores/ElementsOPOres/ElementsOPOres ()V net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/discovery/ASMDataTable
+New Key: class net/mcreator/opores/ElementsOPOres/ModElement
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/OPOresVariables
+New Key: class net/mcreator/opores/OPOresVariables
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class java/util/Map
+Rename field net/minecraft/world/World/provider[3689,3697]::provider->field_73011_w
+Rename field net/minecraft/entity/Entity/world[4078,4083]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[4092,4100]::isRemote->field_72995_K
+New Key: class net/mcreator/opores/OPOresVariables
+Rename field net/minecraft/entity/Entity/world[4184,4189]::world->field_70170_p
+New Key: class net/mcreator/opores/OPOresVariables
+Rename field net/minecraft/entity/Entity/world[4279,4284]::world->field_70170_p
+New Key: class net/mcreator/opores/OPOresVariables
+New Key: class net/mcreator/opores/OPOresVariables
+Rename field net/minecraft/entity/Entity/world[4777,4782]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[4791,4799]::isRemote->field_72995_K
+New Key: class net/mcreator/opores/OPOresVariables
+Rename field net/minecraft/entity/Entity/world[4887,4892]::world->field_70170_p
+New Key: class net/mcreator/opores/OPOresVariables
+New Key: class net/mcreator/opores/gui/GuiCrusher
+New Key: class net/mcreator/opores/gui/GuiCrusher
+FOUND CONSTR method net/mcreator/opores/ElementsOPOres/ModElement/ModElement (Lnet/mcreator/opores/ElementsOPOres;I)V net/mcreator/opores/ElementsOPOres/ModElement
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.IGuiHandler
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.discovery.ASMDataTable
+Import: net.minecraftforge.fml.common.IWorldGenerator
+Import: net.minecraftforge.fml.common.IFuelHandler
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.storage.WorldSavedData
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.World
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.potion.Potion
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.entity.player.EntityPlayerMP
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.gui.GuiCrusher
+Import: java.util.function.Supplier
+Import: java.util.Random
+Import: java.util.Map
+Import: java.util.List
+Import: java.util.HashMap
+Import: java.util.Collections
+Import: java.util.ArrayList
+Import: java.lang.annotation.RetentionPolicy
+Import: java.lang.annotation.Retention
+End  Processing: net/mcreator/opores/ElementsOPOres.java
+
+Start Processing: net/mcreator/opores/IProxyOPOres.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: net/mcreator/opores/IProxyOPOres.java
+
+Start Processing: net/mcreator/opores/Memes.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/Memes/Memes (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/Memes
+Import: org.apache.logging.log4j.Logger
+Import: org.apache.logging.log4j.LogManager
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.World
+Import: java.util.Random
+End  Processing: net/mcreator/opores/Memes.java
+
+Start Processing: net/mcreator/opores/OPOres.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper
+Import: net.minecraftforge.fml.common.network.NetworkRegistry
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.SidedProxy
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fluids.FluidRegistry
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.common.MinecraftForge
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.potion.Potion
+Import: net.minecraft.item.Item
+Import: net.minecraft.block.Block
+Import: java.util.function.Supplier
+End  Processing: net/mcreator/opores/OPOres.java
+
+Start Processing: net/mcreator/opores/OPOresVariables.java
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/MapVariables/MapVariables ()V net/mcreator/opores/OPOresVariables/MapVariables
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/MapVariables/MapVariables (Ljava/lang/String;)V net/mcreator/opores/OPOresVariables/MapVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[818,829]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[898,908]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[1005,1014]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[1035,1043]::isRemote->field_72995_K
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1335,1348]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[1351,1364]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1471,1484]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[1487,1494]::setData->func_75745_a
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/WorldVariables/WorldVariables ()V net/mcreator/opores/OPOresVariables/WorldVariables
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/WorldVariables/WorldVariables (Ljava/lang/String;)V net/mcreator/opores/OPOresVariables/WorldVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[1828,1839]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[1908,1918]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[2015,2024]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[2045,2053]::isRemote->field_72995_K
+Rename field net/minecraft/world/World/provider[2245,2253]::provider->field_73011_w
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[2414,2427]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[2559,2566]::setData->func_75745_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[2925,2931]::player->field_147369_b
+Rename method net/minecraft/entity/player/EntityPlayerMP/getServerWorld ()Lnet/minecraft/world/WorldServer;[2940,2954]::getServerWorld->func_71121_q
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[2963,2979]::addScheduledTask->func_152344_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[3037,3043]::player->field_147369_b
+Rename field net/minecraft/entity/Entity/world[3052,3057]::world->field_70170_p
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3093,3105]::getMinecraft->func_71410_x
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[3108,3124]::addScheduledTask->func_152344_a
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3165,3177]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[3180,3186]::player->field_71439_g
+Rename field net/minecraft/entity/Entity/world[3194,3199]::world->field_70170_p
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[3391,3400]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/provider[3552,3560]::provider->field_73011_w
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[3629,3642]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3645,3652]::setData->func_75745_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3742,3749]::setData->func_75745_a
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage ()V net/mcreator/opores/OPOresVariables/WorldSavedDataSyncMessage
+FOUND CONSTR method net/mcreator/opores/OPOresVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage (ILnet/minecraft/world/storage/WorldSavedData;)V net/mcreator/opores/OPOresVariables/WorldSavedDataSyncMessage
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[4238,4248]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[4506,4517]::readFromNBT->func_76184_a
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.network.simpleimpl.MessageContext
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.ByteBufUtils
+Import: net.minecraft.world.storage.WorldSavedData
+Import: net.minecraft.world.World
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.client.Minecraft
+End  Processing: net/mcreator/opores/OPOresVariables.java
+
+Start Processing: net/mcreator/opores/ServerProxyOPOres.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: net/mcreator/opores/ServerProxyOPOres.java
+
+Start Processing: net/mcreator/opores/block/BlockAluminumOre.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockAluminumOre/BlockAluminumOre (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockAluminumOre
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1712,1728]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2258,2273]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2463,2471]::getBlock->func_177230_c
+Rename field net/minecraft/init/Blocks/STONE[2489,2494]::STONE->field_150348_b
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2504,2519]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2520,2528]::getBlock->func_177230_c
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2609,2617]::generate->func_180709_b
+FOUND CONSTR method net/mcreator/opores/block/BlockAluminumOre/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockAluminumOre/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2766,2770]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2787,2805]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2821,2833]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[2845,2850]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[2901,2912]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[2925,2938]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[2949,2962]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[2972,2987]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[2996,3010]::setCreativeTab->func_149647_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.gen.feature.WorldGenMinable
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Random
+End  Processing: net/mcreator/opores/block/BlockAluminumOre.java
+
+Start Processing: net/mcreator/opores/block/BlockAluminumblock.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockAluminumblock/BlockAluminumblock (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockAluminumblock
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1544,1560]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/opores/block/BlockAluminumblock/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockAluminumblock/BlockCustom
+Rename field net/minecraft/block/material/Material/IRON[1733,1737]::IRON->field_151573_f
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1754,1772]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1790,1802]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[1814,1819]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1870,1881]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1893,1906]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1917,1930]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1942,1957]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1965,1979]::setCreativeTab->func_149647_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.World
+Import: net.minecraft.world.IBlockAccess
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/block/BlockAluminumblock.java
+
+Start Processing: net/mcreator/opores/block/BlockCrusherblock.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockCrusherblock/BlockCrusherblock (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockCrusherblock
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[2510,2526]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/opores/block/BlockCrusherblock/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockCrusherblock/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2729,2733]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2750,2768]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2785,2797]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[2809,2814]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[2865,2876]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[2905,2918]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[2929,2942]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[2952,2967]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[2976,2990]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/ITileEntityProvider/createNewTileEntity (Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;[3047,3066]::createNewTileEntity->func_149915_a
+Rename method net/minecraft/block/Block/eventReceived (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;II)Z[3161,3174]::eventReceived->func_189539_a
+Rename method net/minecraft/block/Block/eventReceived (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;II)Z[3264,3277]::eventReceived->func_189539_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3357,3370]::getTileEntity->func_175625_s
+Rename method net/minecraft/tileentity/TileEntity/receiveClientEvent (II)Z[3428,3446]::receiveClientEvent->func_145842_c
+Rename method net/minecraft/block/Block/getRenderType (Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/util/EnumBlockRenderType;[3514,3527]::getRenderType->func_149645_b
+Rename method net/minecraft/block/Block/breakBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[3622,3632]::breakBlock->func_180663_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3718,3731]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/InventoryHelper/dropInventoryItems (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/inventory/IInventory;)V[3807,3825]::dropInventoryItems->func_180175_a
+Rename method net/minecraft/world/World/removeTileEntity (Lnet/minecraft/util/math/BlockPos;)V[3875,3891]::removeTileEntity->func_175713_t
+Rename method net/minecraft/block/Block/breakBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[3905,3915]::breakBlock->func_180663_b
+Rename method net/minecraft/block/Block/hasComparatorInputOverride (Lnet/minecraft/block/state/IBlockState;)Z[3977,4003]::hasComparatorInputOverride->func_149740_M
+Rename method net/minecraft/block/Block/getComparatorInputOverride (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I[4063,4089]::getComparatorInputOverride->func_180641_l
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[4168,4181]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/Container/calcRedstoneFromInventory (Lnet/minecraft/inventory/IInventory;)I[4258,4283]::calcRedstoneFromInventory->func_94526_b
+Rename method net/minecraft/block/Block/onBlockActivated (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z[4365,4381]::onBlockActivated->func_180639_a
+Rename method net/minecraft/block/Block/onBlockActivated (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z[4536,4552]::onBlockActivated->func_180639_a
+Rename method net/minecraft/util/math/Vec3i/getX ()I[4629,4633]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[4662,4666]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[4695,4699]::getZ->func_177952_p
+Rename method net/minecraft/util/NonNullList/withSize (ILjava/lang/Object;)Lnet/minecraft/util/NonNullList;[5015,5023]::withSize->func_191197_a
+Rename field net/minecraft/item/ItemStack/EMPTY[5042,5047]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/IInventory/getSizeInventory ()I[5086,5102]::getSizeInventory->func_70302_i_
+Rename method net/minecraft/inventory/IInventory/isEmpty ()Z[5156,5163]::isEmpty->func_191420_l
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[5238,5245]::isEmpty->func_190926_b
+Rename method net/minecraft/inventory/IInventory/isItemValidForSlot (ILnet/minecraft/item/ItemStack;)Z[5330,5348]::isItemValidForSlot->func_94041_b
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[5430,5444]::getStackInSlot->func_70301_a
+Rename method net/minecraft/world/IWorldNameable/getName ()Ljava/lang/String;[5521,5528]::getName->func_70005_c_
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[5611,5622]::readFromNBT->func_145839_a
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[5662,5673]::readFromNBT->func_145839_a
+Rename method net/minecraft/util/NonNullList/withSize (ILjava/lang/Object;)Lnet/minecraft/util/NonNullList;[5728,5736]::withSize->func_191197_a
+Rename method net/minecraft/inventory/IInventory/getSizeInventory ()I[5747,5763]::getSizeInventory->func_70302_i_
+Rename field net/minecraft/item/ItemStack/EMPTY[5774,5779]::EMPTY->field_190927_a
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/checkLootAndRead (Lnet/minecraft/nbt/NBTTagCompound;)Z[5805,5821]::checkLootAndRead->func_184283_b
+Rename method net/minecraft/inventory/ItemStackHelper/loadAllItems (Lnet/minecraft/nbt/NBTTagCompound;Lnet/minecraft/util/NonNullList;)V[5851,5863]::loadAllItems->func_191283_b
+Rename method net/minecraft/tileentity/TileEntity/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[5934,5944]::writeToNBT->func_189515_b
+Rename method net/minecraft/tileentity/TileEntity/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[5985,5995]::writeToNBT->func_189515_b
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/checkLootAndWrite (Lnet/minecraft/nbt/NBTTagCompound;)Z[6024,6041]::checkLootAndWrite->func_184282_c
+Rename method net/minecraft/inventory/ItemStackHelper/saveAllItems (Lnet/minecraft/nbt/NBTTagCompound;Lnet/minecraft/util/NonNullList;)Lnet/minecraft/nbt/NBTTagCompound;[6070,6082]::saveAllItems->func_191282_a
+Rename method net/minecraft/tileentity/TileEntity/getUpdatePacket ()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;[6183,6198]::getUpdatePacket->func_189518_D_
+Rename field net/minecraft/tileentity/TileEntity/pos[6246,6249]::pos->field_174879_c
+Rename method net/minecraft/tileentity/TileEntity/getUpdateTag ()Lnet/minecraft/nbt/NBTTagCompound;[6270,6282]::getUpdateTag->func_189517_E_
+Rename method net/minecraft/tileentity/TileEntity/getUpdateTag ()Lnet/minecraft/nbt/NBTTagCompound;[6334,6346]::getUpdateTag->func_189517_E_
+Rename method net/minecraft/tileentity/TileEntity/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[6369,6379]::writeToNBT->func_189515_b
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[6514,6525]::readFromNBT->func_145839_a
+Rename method net/minecraft/network/play/server/SPacketUpdateTileEntity/getNbtCompound ()Lnet/minecraft/nbt/NBTTagCompound;[6532,6546]::getNbtCompound->func_148857_g
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[6632,6643]::readFromNBT->func_145839_a
+Rename method net/minecraft/inventory/IInventory/getInventoryStackLimit ()I[6686,6708]::getInventoryStackLimit->func_70297_j_
+Rename method net/minecraft/world/IInteractionObject/getGuiID ()Ljava/lang/String;[6756,6764]::getGuiID->func_174875_k
+Rename method net/minecraft/world/IInteractionObject/createContainer (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/inventory/Container;[6848,6863]::createContainer->func_174876_a
+New Key: class net/mcreator/opores/gui/GuiCrusher
+Rename method net/minecraft/tileentity/TileEntity/getWorld ()Lnet/minecraft/world/World;[6967,6975]::getWorld->func_145831_w
+Rename method net/minecraft/tileentity/TileEntity/getPos ()Lnet/minecraft/util/math/BlockPos;[6989,6995]::getPos->func_174877_v
+Rename method net/minecraft/util/math/Vec3i/getX ()I[7005,7009]::getX->func_177958_n
+Rename method net/minecraft/tileentity/TileEntity/getPos ()Lnet/minecraft/util/math/BlockPos;[7027,7033]::getPos->func_174877_v
+Rename method net/minecraft/util/math/Vec3i/getY ()I[7043,7047]::getY->func_177956_o
+Rename method net/minecraft/tileentity/TileEntity/getPos ()Lnet/minecraft/util/math/BlockPos;[7065,7071]::getPos->func_174877_v
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[7081,7085]::getZ->func_177952_p
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/getItems ()Lnet/minecraft/util/NonNullList;[7165,7173]::getItems->func_190576_q
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.NonNullList
+Import: net.minecraft.util.EnumHand
+Import: net.minecraft.util.EnumFacing
+Import: net.minecraft.util.EnumBlockRenderType
+Import: net.minecraft.tileentity.TileEntityLockableLoot
+Import: net.minecraft.tileentity.TileEntity
+Import: net.minecraft.network.play.server.SPacketUpdateTileEntity
+Import: net.minecraft.network.NetworkManager
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.inventory.ItemStackHelper
+Import: net.minecraft.inventory.InventoryHelper
+Import: net.minecraft.inventory.Container
+Import: net.minecraft.entity.player.InventoryPlayer
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.ITileEntityProvider
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.gui.GuiCrusher
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.OPOres
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/block/BlockCrusherblock.java
+
+Start Processing: net/mcreator/opores/block/BlockFairyGrass.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockFairyGrass/BlockFairyGrass (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockFairyGrass
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1748,1764]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2294,2309]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2499,2507]::getBlock->func_177230_c
+Rename field net/minecraft/init/Blocks/GRASS[2525,2530]::GRASS->field_150349_c
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2540,2555]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2556,2564]::getBlock->func_177230_c
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2645,2653]::generate->func_180709_b
+FOUND CONSTR method net/mcreator/opores/block/BlockFairyGrass/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockFairyGrass/BlockCustom
+Rename field net/minecraft/block/material/Material/GRASS[2802,2807]::GRASS->field_151577_b
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2823,2841]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2856,2868]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[2880,2886]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[2901,2912]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[2924,2937]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[2948,2961]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[2971,2986]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[2995,3009]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/DECORATIONS[3022,3033]::DECORATIONS->field_78031_c
+Rename method net/minecraft/block/Block/isReplaceable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[3076,3089]::isReplaceable->func_176200_f
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.gen.feature.WorldGenMinable
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.World
+Import: net.minecraft.world.IBlockAccess
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Random
+End  Processing: net/mcreator/opores/block/BlockFairyGrass.java
+
+Start Processing: net/mcreator/opores/block/BlockTitaniumOre.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockTitaniumOre/BlockTitaniumOre (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockTitaniumOre
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1882,1898]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2430,2445]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2635,2643]::getBlock->func_177230_c
+Rename field net/minecraft/init/Blocks/STONE[2661,2666]::STONE->field_150348_b
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2676,2691]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2692,2700]::getBlock->func_177230_c
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2781,2789]::generate->func_180709_b
+FOUND CONSTR method net/mcreator/opores/block/BlockTitaniumOre/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockTitaniumOre/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2938,2942]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2959,2977]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2993,3005]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[3017,3022]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[3073,3084]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[3096,3109]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[3120,3133]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[3143,3158]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[3167,3181]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[3194,3209]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/isReplaceable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[3248,3261]::isReplaceable->func_176200_f
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.gen.feature.WorldGenMinable
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.World
+Import: net.minecraft.world.IBlockAccess
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.NonNullList
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.item.ItemTitaniumChunk
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Random
+End  Processing: net/mcreator/opores/block/BlockTitaniumOre.java
+
+Start Processing: net/mcreator/opores/block/BlockUmbronBlock.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockUmbronBlock/BlockUmbronBlock (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockUmbronBlock
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1317,1333]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/opores/block/BlockUmbronBlock/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockUmbronBlock/BlockCustom
+Rename field net/minecraft/block/material/Material/IRON[1504,1508]::IRON->field_151573_f
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1525,1543]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1559,1571]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[1583,1588]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1639,1650]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1662,1675]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1686,1699]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1711,1726]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1735,1749]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[1762,1777]::BUILDING_BLOCKS->field_78030_b
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/block/BlockUmbronBlock.java
+
+Start Processing: net/mcreator/opores/block/BlockUmbronore.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/block/BlockUmbronore/BlockUmbronore (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/block/BlockUmbronore
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1928,1944]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2473,2488]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2678,2686]::getBlock->func_177230_c
+Rename field net/minecraft/init/Blocks/STONE[2704,2709]::STONE->field_150348_b
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2719,2734]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2735,2743]::getBlock->func_177230_c
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2824,2832]::generate->func_180709_b
+FOUND CONSTR method net/mcreator/opores/block/BlockUmbronore/BlockCustom/BlockCustom ()V net/mcreator/opores/block/BlockUmbronore/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2981,2985]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[3002,3020]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[3034,3046]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[3058,3063]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[3114,3125]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[3137,3150]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[3161,3174]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[3186,3201]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[3210,3224]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[3237,3252]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/block/Block/isReplaceable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[3291,3304]::isReplaceable->func_176200_f
+Rename method net/minecraft/block/Block/getMobilityFlag (Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;[3411,3426]::getMobilityFlag->func_149656_h
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.gen.feature.WorldGenMinable
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.World
+Import: net.minecraft.world.IBlockAccess
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.NonNullList
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.init.Blocks
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.material.EnumPushReaction
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.opores.item.ItemUmbroncrystal
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Random
+End  Processing: net/mcreator/opores/block/BlockUmbronore.java
+
+Start Processing: net/mcreator/opores/command/CommandPenis.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/command/CommandPenis/CommandPenis (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/command/CommandPenis
+Rename method net/minecraft/command/ICommand/getName ()Ljava/lang/String;[1049,1056]::getName->func_71517_b
+Rename method net/minecraft/command/ICommand/getName ()Ljava/lang/String;[1076,1083]::getName->func_71517_b
+Rename method net/minecraft/command/ICommand/checkPermission (Lnet/minecraft/server/MinecraftServer;Lnet/minecraft/command/ICommandSender;)Z[1131,1146]::checkPermission->func_184882_a
+Rename method net/minecraft/command/ICommand/getAliases ()Ljava/util/List;[1244,1254]::getAliases->func_71514_a
+Rename method net/minecraft/command/ICommand/getTabCompletions (Lnet/minecraft/server/MinecraftServer;Lnet/minecraft/command/ICommandSender;[Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;)Ljava/util/List;[1324,1341]::getTabCompletions->func_184883_a
+Rename method net/minecraft/command/ICommand/isUsernameIndex ([Ljava/lang/String;I)Z[1482,1497]::isUsernameIndex->func_82358_a
+Rename method net/minecraft/command/ICommand/getName ()Ljava/lang/String;[1579,1586]::getName->func_71517_b
+Rename method net/minecraft/command/ICommand/getUsage (Lnet/minecraft/command/ICommandSender;)Ljava/lang/String;[1653,1661]::getUsage->func_71518_a
+Rename method net/minecraft/command/ICommand/execute (Lnet/minecraft/server/MinecraftServer;Lnet/minecraft/command/ICommandSender;[Ljava/lang/String;)V[1759,1766]::execute->func_184881_a
+Rename method net/minecraft/command/ICommandSender/getPosition ()Lnet/minecraft/util/math/BlockPos;[1855,1866]::getPosition->func_180425_c
+Rename method net/minecraft/util/math/Vec3i/getX ()I[1871,1875]::getX->func_177958_n
+Rename method net/minecraft/command/ICommandSender/getPosition ()Lnet/minecraft/util/math/BlockPos;[1907,1918]::getPosition->func_180425_c
+Rename method net/minecraft/util/math/Vec3i/getY ()I[1923,1927]::getY->func_177956_o
+Rename method net/minecraft/command/ICommandSender/getPosition ()Lnet/minecraft/util/math/BlockPos;[1959,1970]::getPosition->func_180425_c
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[1975,1979]::getZ->func_177952_p
+Rename method net/minecraft/command/ICommandSender/getCommandSenderEntity ()Lnet/minecraft/entity/Entity;[2019,2041]::getCommandSenderEntity->func_174793_f
+Rename field net/minecraft/entity/Entity/world[2088,2093]::world->field_70170_p
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.server.MinecraftServer
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.command.ICommandSender
+Import: net.minecraft.command.ICommand
+Import: net.minecraft.command.CommandHandler
+Import: net.mcreator.opores.procedure.ProcedurePenisCommandExecuted
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.List
+Import: java.util.HashMap
+Import: java.util.Arrays
+Import: java.util.ArrayList
+End  Processing: net/mcreator/opores/command/CommandPenis.java
+
+Start Processing: net/mcreator/opores/creativetab/TabOPOres.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/creativetab/TabOPOres/TabOPOres (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/creativetab/TabOPOres
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[649,663]::getTabIconItem->func_78016_d
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.mcreator.opores.item.ItemAluminumPickaxe
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/creativetab/TabOPOres.java
+
+Start Processing: net/mcreator/opores/gui/GuiCrusher.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GuiCrusher (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/gui/GuiCrusher
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GuiContainerMod/GuiContainerMod (Lnet/minecraft/world/World;IIILnet/minecraft/entity/player/EntityPlayer;)V net/mcreator/opores/gui/GuiCrusher/GuiContainerMod
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[2367,2380]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/Container/addSlotToContainer (Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;[2512,2530]::addSlotToContainer->func_75146_a
+Rename method net/minecraft/inventory/Container/addSlotToContainer (Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;[2599,2617]::addSlotToContainer->func_75146_a
+Rename method net/minecraft/inventory/Container/addSlotToContainer (Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;[2686,2704]::addSlotToContainer->func_75146_a
+Rename method net/minecraft/inventory/Slot/isItemValid (Lnet/minecraft/item/ItemStack;)Z[2767,2778]::isItemValid->func_75214_a
+Rename method net/minecraft/inventory/Container/addSlotToContainer (Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;[2933,2951]::addSlotToContainer->func_75146_a
+Rename field net/minecraft/entity/player/EntityPlayer/inventory[2962,2971]::inventory->field_71071_by
+Rename method net/minecraft/inventory/Container/addSlotToContainer (Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;[3075,3093]::addSlotToContainer->func_75146_a
+Rename field net/minecraft/entity/player/EntityPlayer/inventory[3104,3113]::inventory->field_71071_by
+Rename method net/minecraft/inventory/Container/canInteractWith (Lnet/minecraft/entity/player/EntityPlayer;)Z[3258,3273]::canInteractWith->func_75145_c
+Rename method net/minecraft/inventory/IInventory/isUsableByPlayer (Lnet/minecraft/entity/player/EntityPlayer;)Z[3314,3330]::isUsableByPlayer->func_70300_a
+Rename method net/minecraft/inventory/Container/transferStackInSlot (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;[3376,3395]::transferStackInSlot->func_82846_b
+Rename field net/minecraft/item/ItemStack/EMPTY[3461,3466]::EMPTY->field_190927_a
+Rename field net/minecraft/inventory/Container/inventorySlots[3505,3519]::inventorySlots->field_75151_b
+Rename method net/minecraft/inventory/Slot/getHasStack ()Z[3560,3571]::getHasStack->func_75216_d
+Rename method net/minecraft/inventory/Slot/getStack ()Lnet/minecraft/item/ItemStack;[3611,3619]::getStack->func_75211_c
+Rename method net/minecraft/item/ItemStack/copy ()Lnet/minecraft/item/ItemStack;[3655,3659]::copy->func_77946_l
+Rename method net/minecraft/inventory/Container/mergeItemStack (Lnet/minecraft/item/ItemStack;IIZ)Z[3709,3723]::mergeItemStack->func_75135_a
+Rename field net/minecraft/inventory/Container/inventorySlots[3742,3756]::inventorySlots->field_75151_b
+Rename field net/minecraft/item/ItemStack/EMPTY[3797,3802]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/Slot/onSlotChange (Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)V[3832,3844]::onSlotChange->func_75220_a
+Rename method net/minecraft/inventory/Container/mergeItemStack (Lnet/minecraft/item/ItemStack;IIZ)Z[3891,3905]::mergeItemStack->func_75135_a
+Rename method net/minecraft/inventory/Container/mergeItemStack (Lnet/minecraft/item/ItemStack;IIZ)Z[3977,3991]::mergeItemStack->func_75135_a
+Rename field net/minecraft/inventory/Container/inventorySlots[4015,4029]::inventorySlots->field_75151_b
+Rename field net/minecraft/item/ItemStack/EMPTY[4071,4076]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/Container/mergeItemStack (Lnet/minecraft/item/ItemStack;IIZ)Z[4128,4142]::mergeItemStack->func_75135_a
+Rename field net/minecraft/item/ItemStack/EMPTY[4199,4204]::EMPTY->field_190927_a
+Rename field net/minecraft/item/ItemStack/EMPTY[4255,4260]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[4298,4306]::getCount->func_190916_E
+Rename method net/minecraft/inventory/Slot/putStack (Lnet/minecraft/item/ItemStack;)V[4333,4341]::putStack->func_75215_d
+Rename field net/minecraft/item/ItemStack/EMPTY[4356,4361]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/Slot/onSlotChanged ()V[4398,4411]::onSlotChanged->func_75218_e
+Rename method net/minecraft/item/ItemStack/getCount ()I[4441,4449]::getCount->func_190916_E
+Rename method net/minecraft/item/ItemStack/getCount ()I[4470,4478]::getCount->func_190916_E
+Rename field net/minecraft/item/ItemStack/EMPTY[4512,4517]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/Slot/onTake (Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/item/ItemStack;)Lnet/minecraft/item/ItemStack;[4545,4551]::onTake->func_190901_a
+Rename method net/minecraft/inventory/Container/mergeItemStack (Lnet/minecraft/item/ItemStack;IIZ)Z[4974,4988]::mergeItemStack->func_75135_a
+Rename method net/minecraft/item/ItemStack/isStackable ()Z[5183,5194]::isStackable->func_77985_e
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[5220,5227]::isEmpty->func_190926_b
+Rename field net/minecraft/inventory/Container/inventorySlots[5401,5415]::inventorySlots->field_75151_b
+Rename method net/minecraft/inventory/Slot/getStack ()Lnet/minecraft/item/ItemStack;[5456,5464]::getStack->func_75211_c
+Rename method net/minecraft/inventory/Slot/isItemValid (Lnet/minecraft/item/ItemStack;)Z[5487,5498]::isItemValid->func_75214_a
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[5525,5532]::isEmpty->func_190926_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[5554,5561]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[5578,5585]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getHasSubtypes ()Z[5612,5626]::getHasSubtypes->func_77981_g
+Rename method net/minecraft/item/ItemStack/getMetadata ()I[5636,5647]::getMetadata->func_77960_j
+Rename method net/minecraft/item/ItemStack/getMetadata ()I[5664,5675]::getMetadata->func_77960_j
+Rename method net/minecraft/item/ItemStack/areItemStackTagsEqual (Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z[5701,5722]::areItemStackTagsEqual->func_77970_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[5760,5768]::getCount->func_190916_E
+Rename method net/minecraft/item/ItemStack/getCount ()I[5784,5792]::getCount->func_190916_E
+Rename method net/minecraft/inventory/Slot/getSlotStackLimit ()I[5836,5853]::getSlotStackLimit->func_75219_a
+Rename method net/minecraft/item/ItemStack/getMaxStackSize ()I[5858,5873]::getMaxStackSize->func_77976_d
+Rename method net/minecraft/item/ItemStack/setCount (I)V[5916,5924]::setCount->func_190920_e
+Rename method net/minecraft/item/ItemStack/setCount (I)V[5952,5960]::setCount->func_190920_e
+Rename method net/minecraft/inventory/Slot/putStack (Lnet/minecraft/item/ItemStack;)V[5983,5991]::putStack->func_75215_d
+Rename method net/minecraft/item/ItemStack/getCount ()I[6057,6065]::getCount->func_190916_E
+Rename method net/minecraft/item/ItemStack/shrink (I)V[6100,6106]::shrink->func_190918_g
+Rename method net/minecraft/item/ItemStack/getCount ()I[6134,6142]::getCount->func_190916_E
+Rename method net/minecraft/item/ItemStack/setCount (I)V[6170,6178]::setCount->func_190920_e
+Rename method net/minecraft/inventory/Slot/putStack (Lnet/minecraft/item/ItemStack;)V[6207,6215]::putStack->func_75215_d
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[6375,6382]::isEmpty->func_190926_b
+Rename field net/minecraft/inventory/Container/inventorySlots[6673,6687]::inventorySlots->field_75151_b
+Rename method net/minecraft/inventory/Slot/getStack ()Lnet/minecraft/item/ItemStack;[6730,6738]::getStack->func_75211_c
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[6767,6774]::isEmpty->func_190926_b
+Rename method net/minecraft/inventory/Slot/isItemValid (Lnet/minecraft/item/ItemStack;)Z[6792,6803]::isItemValid->func_75214_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[6832,6840]::getCount->func_190916_E
+Rename method net/minecraft/inventory/Slot/getSlotStackLimit ()I[6856,6873]::getSlotStackLimit->func_75219_a
+Rename method net/minecraft/inventory/Slot/putStack (Lnet/minecraft/item/ItemStack;)V[6888,6896]::putStack->func_75215_d
+Rename method net/minecraft/item/ItemStack/splitStack (I)Lnet/minecraft/item/ItemStack;[6907,6917]::splitStack->func_77979_a
+Rename method net/minecraft/inventory/Slot/getSlotStackLimit ()I[6926,6943]::getSlotStackLimit->func_75219_a
+Rename method net/minecraft/inventory/Slot/putStack (Lnet/minecraft/item/ItemStack;)V[6974,6982]::putStack->func_75215_d
+Rename method net/minecraft/item/ItemStack/splitStack (I)Lnet/minecraft/item/ItemStack;[6993,7003]::splitStack->func_77979_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[7012,7020]::getCount->func_190916_E
+Rename method net/minecraft/inventory/Slot/onSlotChanged ()V[7053,7066]::onSlotChanged->func_75218_e
+Rename method net/minecraft/inventory/Container/onContainerClosed (Lnet/minecraft/entity/player/EntityPlayer;)V[7253,7270]::onContainerClosed->func_75134_a
+Rename method net/minecraft/inventory/Container/onContainerClosed (Lnet/minecraft/entity/player/EntityPlayer;)V[7301,7318]::onContainerClosed->func_75134_a
+Rename method net/minecraft/inventory/Container/clearContainer (Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;Lnet/minecraft/inventory/IInventory;)V[7423,7437]::clearContainer->func_193327_a
+Rename field net/minecraft/entity/Entity/world[7456,7461]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[7599,7607]::isRemote->field_72995_K
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GuiWindow/GuiWindow (Lnet/minecraft/world/World;IIILnet/minecraft/entity/player/EntityPlayer;)V net/mcreator/opores/gui/GuiCrusher/GuiWindow
+Rename field net/minecraft/client/gui/inventory/GuiContainer/xSize[8167,8172]::xSize->field_146999_f
+Rename field net/minecraft/client/gui/inventory/GuiContainer/ySize[8198,8203]::ySize->field_147000_g
+Rename method net/minecraft/client/gui/GuiScreen/drawScreen (IIF)V[8357,8367]::drawScreen->func_73863_a
+Rename method net/minecraft/client/gui/GuiScreen/drawDefaultBackground ()V[8425,8446]::drawDefaultBackground->func_146276_q_
+Rename method net/minecraft/client/gui/GuiScreen/drawScreen (IIF)V[8453,8463]::drawScreen->func_73863_a
+Rename method net/minecraft/client/gui/inventory/GuiContainer/renderHoveredToolTip (II)V[8506,8526]::renderHoveredToolTip->func_191948_b
+Rename method net/minecraft/client/gui/inventory/GuiContainer/drawGuiContainerBackgroundLayer (FII)V[8575,8606]::drawGuiContainerBackgroundLayer->func_146976_a
+Rename field net/minecraft/client/gui/GuiScreen/mc[8676,8678]::mc->field_146297_k
+Rename field net/minecraft/client/Minecraft/renderEngine[8691,8703]::renderEngine->field_71446_o
+Rename method net/minecraft/client/renderer/texture/TextureManager/bindTexture (Lnet/minecraft/util/ResourceLocation;)V[8705,8716]::bindTexture->func_110577_a
+Rename field net/minecraft/client/gui/GuiScreen/width[8747,8752]::width->field_146294_l
+Rename field net/minecraft/client/gui/inventory/GuiContainer/xSize[8769,8774]::xSize->field_146999_f
+Rename field net/minecraft/client/gui/GuiScreen/height[8808,8814]::height->field_146295_m
+Rename field net/minecraft/client/gui/inventory/GuiContainer/ySize[8830,8835]::ySize->field_147000_g
+Rename method net/minecraft/client/gui/Gui/drawTexturedModalRect (IIIIII)V[8860,8881]::drawTexturedModalRect->func_73729_b
+Rename field net/minecraft/client/gui/inventory/GuiContainer/xSize[8890,8895]::xSize->field_146999_f
+Rename field net/minecraft/client/gui/inventory/GuiContainer/ySize[8911,8916]::ySize->field_147000_g
+Rename field net/minecraft/client/gui/Gui/zLevel[8932,8938]::zLevel->field_73735_i
+Rename field net/minecraft/client/gui/GuiScreen/mc[8965,8967]::mc->field_146297_k
+Rename field net/minecraft/client/Minecraft/renderEngine[8980,8992]::renderEngine->field_71446_o
+Rename method net/minecraft/client/renderer/texture/TextureManager/bindTexture (Lnet/minecraft/util/ResourceLocation;)V[8994,9005]::bindTexture->func_110577_a
+Rename method net/minecraft/client/gui/Gui/drawTexturedModalRect (IIIIII)V[9073,9094]::drawTexturedModalRect->func_73729_b
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiLeft[9091,9098]::guiLeft->field_147003_i
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiTop[9117,9123]::guiTop->field_147009_r
+Rename method net/minecraft/client/gui/GuiScreen/updateScreen ()V[9190,9202]::updateScreen->func_73876_c
+Rename method net/minecraft/client/gui/GuiScreen/updateScreen ()V[9217,9229]::updateScreen->func_73876_c
+Rename method net/minecraft/client/gui/GuiScreen/mouseClicked (III)V[9271,9283]::mouseClicked->func_73864_a
+Rename method net/minecraft/client/gui/GuiScreen/mouseClicked (III)V[9356,9368]::mouseClicked->func_73864_a
+Rename method net/minecraft/client/gui/GuiScreen/keyTyped (CI)V[9437,9445]::keyTyped->func_73869_a
+Rename method net/minecraft/client/gui/GuiScreen/keyTyped (CI)V[9510,9518]::keyTyped->func_73869_a
+Rename method net/minecraft/client/gui/inventory/GuiContainer/drawGuiContainerForegroundLayer (II)V[9582,9613]::drawGuiContainerForegroundLayer->func_146979_b
+Rename field net/minecraft/client/gui/GuiScreen/fontRenderer[9627,9639]::fontRenderer->field_146289_q
+Rename method net/minecraft/client/gui/FontRenderer/drawString (Ljava/lang/String;III)I[9642,9652]::drawString->func_78276_b
+Rename method net/minecraft/client/gui/GuiScreen/onGuiClosed ()V[9712,9723]::onGuiClosed->func_146281_b
+Rename method net/minecraft/client/gui/GuiScreen/onGuiClosed ()V[9740,9751]::onGuiClosed->func_146281_b
+Rename method net/minecraft/client/gui/GuiScreen/initGui ()V[9832,9839]::initGui->func_73866_w_
+Rename method net/minecraft/client/gui/GuiScreen/initGui ()V[9860,9867]::initGui->func_73866_w_
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiLeft[9886,9893]::guiLeft->field_147003_i
+Rename field net/minecraft/client/gui/GuiScreen/width[9909,9914]::width->field_146294_l
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiTop[9945,9951]::guiTop->field_147009_r
+Rename field net/minecraft/client/gui/GuiScreen/height[9968,9974]::height->field_146295_m
+Rename field net/minecraft/client/gui/GuiScreen/buttonList[10043,10053]::buttonList->field_146292_n
+Rename field net/minecraft/client/gui/GuiScreen/buttonList[10076,10086]::buttonList->field_146292_n
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiLeft[10117,10124]::guiLeft->field_147003_i
+Rename field net/minecraft/client/gui/inventory/GuiContainer/guiTop[10142,10148]::guiTop->field_147009_r
+Rename method net/minecraft/client/gui/GuiScreen/actionPerformed (Lnet/minecraft/client/gui/GuiButton;)V[10232,10247]::actionPerformed->func_146284_a
+Rename field net/minecraft/client/gui/GuiButton/id[10340,10342]::id->field_146127_k
+Rename field net/minecraft/client/gui/GuiButton/id[10405,10407]::id->field_146127_k
+Rename method net/minecraft/client/gui/GuiScreen/doesGuiPauseGame ()Z[10469,10485]::doesGuiPauseGame->func_73868_f
+Rename field net/minecraft/network/NetHandlerPlayServer/player[10788,10794]::player->field_147369_b
+Rename method net/minecraft/entity/player/EntityPlayerMP/getServerWorld ()Lnet/minecraft/world/WorldServer;[10815,10829]::getServerWorld->func_71121_q
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[10830,10846]::addScheduledTask->func_152344_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[11317,11323]::player->field_147369_b
+Rename method net/minecraft/entity/player/EntityPlayerMP/getServerWorld ()Lnet/minecraft/world/WorldServer;[11344,11358]::getServerWorld->func_71121_q
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[11359,11375]::addScheduledTask->func_152344_a
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GUIButtonPressedMessage/GUIButtonPressedMessage ()V net/mcreator/opores/gui/GuiCrusher/GUIButtonPressedMessage
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GUIButtonPressedMessage/GUIButtonPressedMessage (IIII)V net/mcreator/opores/gui/GuiCrusher/GUIButtonPressedMessage
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GUISlotChangedMessage/GUISlotChangedMessage ()V net/mcreator/opores/gui/GuiCrusher/GUISlotChangedMessage
+FOUND CONSTR method net/mcreator/opores/gui/GuiCrusher/GUISlotChangedMessage/GUISlotChangedMessage (IIIIII)V net/mcreator/opores/gui/GuiCrusher/GUISlotChangedMessage
+Rename field net/minecraft/entity/Entity/world[13254,13259]::world->field_70170_p
+Rename method net/minecraft/world/World/isBlockLoaded (Lnet/minecraft/util/math/BlockPos;)Z[13344,13357]::isBlockLoaded->func_175667_e
+Rename field net/minecraft/entity/Entity/world[13874,13879]::world->field_70170_p
+Rename method net/minecraft/world/World/isBlockLoaded (Lnet/minecraft/util/math/BlockPos;)Z[13964,13977]::isBlockLoaded->func_175667_e
+Import: org.lwjgl.opengl.GL11
+Import: org.lwjgl.input.Keyboard
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.network.simpleimpl.MessageContext
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.tileentity.TileEntity
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.inventory.Slot
+Import: net.minecraft.inventory.InventoryBasic
+Import: net.minecraft.inventory.IInventory
+Import: net.minecraft.inventory.Container
+Import: net.minecraft.entity.player.EntityPlayerMP
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.client.gui.inventory.GuiContainer
+Import: net.minecraft.client.gui.GuiButton
+Import: net.mcreator.opores.procedure.ProcedureCrusherProcedure
+Import: net.mcreator.opores.OPOres
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.function.Supplier
+Import: java.util.Map
+Import: java.util.HashMap
+Import: java.io.IOException
+End  Processing: net/mcreator/opores/gui/GuiCrusher.java
+
+Start Processing: net/mcreator/opores/item/ItemAluminum.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminum/ItemAluminum (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemAluminum
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminum/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemAluminum/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1253,1265]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1274,1286]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1299,1317]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1362,1376]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1425,1446]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1490,1511]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1576,1591]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemAluminum.java
+
+Start Processing: net/mcreator/opores/item/ItemAluminumArmor.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminumArmor/ItemAluminumArmor (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemAluminumArmor
+New Key: class net/minecraft/item/ItemArmor
+Rename field net/minecraft/util/SoundEvent/REGISTRY[1530,1538]::REGISTRY->field_187505_a
+Rename method net/minecraft/util/registry/IRegistry/getObject (Ljava/lang/Object;)Ljava/lang/Object;[1545,1554]::getObject->func_82594_a
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1668,1686]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1749,1763]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1858,1876]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1935,1949]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[2043,2061]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2120,2134]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[2228,2246]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2307,2321]::setCreativeTab->func_77637_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.Item
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemAluminumArmor.java
+
+Start Processing: net/mcreator/opores/item/ItemAluminumDust.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminumDust/ItemAluminumDust (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemAluminumDust
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminumDust/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemAluminumDust/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1270,1282]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1291,1303]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1316,1334]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1387,1401]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1450,1471]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1515,1536]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1601,1616]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemAluminumDust.java
+
+Start Processing: net/mcreator/opores/item/ItemAluminumPickaxe.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminumPickaxe/ItemAluminumPickaxe (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemAluminumPickaxe
+Rename field net/minecraft/item/ItemTool/attackSpeed[1160,1171]::attackSpeed->field_185065_c
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1380,1398]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1447,1461]::setCreativeTab->func_77637_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemPickaxe
+Import: net.minecraft.item.Item
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Set
+Import: java.util.HashMap
+End  Processing: net/mcreator/opores/item/ItemAluminumPickaxe.java
+
+Start Processing: net/mcreator/opores/item/ItemAluminumshovel.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemAluminumshovel/ItemAluminumshovel (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemAluminumshovel
+Rename field net/minecraft/item/ItemTool/attackSpeed[1152,1163]::attackSpeed->field_185065_c
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1370,1388]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1435,1449]::setCreativeTab->func_77637_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemSpade
+Import: net.minecraft.item.Item
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.creativetab.TabOPOres
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Set
+Import: java.util.HashMap
+End  Processing: net/mcreator/opores/item/ItemAluminumshovel.java
+
+Start Processing: net/mcreator/opores/item/ItemCutter.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemCutter/ItemCutter (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemCutter
+FOUND CONSTR method net/mcreator/opores/item/ItemCutter/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemCutter/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1243,1255]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1264,1276]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1288,1306]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1347,1361]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1373,1377]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setContainerItem (Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;[1393,1409]::setContainerItem->func_77642_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1447,1468]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1512,1533]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1598,1613]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemCutter.java
+
+Start Processing: net/mcreator/opores/item/ItemFairyDust.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemFairyDust/ItemFairyDust (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemFairyDust
+FOUND CONSTR method net/mcreator/opores/item/ItemFairyDust/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemFairyDust/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1255,1267]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1276,1288]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1301,1319]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1366,1380]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1392,1396]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1442,1463]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1507,1528]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1593,1608]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemFairyDust.java
+
+Start Processing: net/mcreator/opores/item/ItemFairyIngot.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemFairyIngot/ItemFairyIngot (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemFairyIngot
+FOUND CONSTR method net/mcreator/opores/item/ItemFairyIngot/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemFairyIngot/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1259,1271]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1280,1292]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1305,1323]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1372,1386]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1398,1402]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1448,1469]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1513,1534]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1599,1614]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemFairyIngot.java
+
+Start Processing: net/mcreator/opores/item/ItemHandCrusher.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemHandCrusher/ItemHandCrusher (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemHandCrusher
+FOUND CONSTR method net/mcreator/opores/item/ItemHandCrusher/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemHandCrusher/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1263,1275]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1284,1296]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1308,1326]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1377,1391]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1403,1407]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setContainerItem (Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;[1423,1439]::setContainerItem->func_77642_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1477,1498]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1542,1563]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1628,1643]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemHandCrusher.java
+
+Start Processing: net/mcreator/opores/item/ItemIngotBucket.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemIngotBucket/ItemIngotBucket (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemIngotBucket
+FOUND CONSTR method net/mcreator/opores/item/ItemIngotBucket/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemIngotBucket/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1263,1275]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1284,1296]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1308,1326]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1377,1391]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1403,1407]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1453,1474]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1518,1539]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1604,1619]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemIngotBucket.java
+
+Start Processing: net/mcreator/opores/item/ItemSeive.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemSeive/ItemSeive (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemSeive
+FOUND CONSTR method net/mcreator/opores/item/ItemSeive/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemSeive/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1239,1251]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1260,1272]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1284,1302]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1341,1355]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1367,1371]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setContainerItem (Lnet/minecraft/item/Item;)Lnet/minecraft/item/Item;[1387,1403]::setContainerItem->func_77642_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1441,1462]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1506,1527]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1592,1607]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemSeive.java
+
+Start Processing: net/mcreator/opores/item/ItemTitaniumBucket.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumBucket/ItemTitaniumBucket (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemTitaniumBucket
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumBucket/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemTitaniumBucket/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1275,1287]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1296,1308]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1320,1338]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1395,1409]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1421,1425]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1471,1492]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1536,1557]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1622,1637]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemTitaniumBucket.java
+
+Start Processing: net/mcreator/opores/item/ItemTitaniumChunk.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumChunk/ItemTitaniumChunk (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemTitaniumChunk
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumChunk/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemTitaniumChunk/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1271,1283]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1292,1304]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1317,1335]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1390,1404]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1416,1420]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1466,1487]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1531,1552]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1617,1632]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemTitaniumChunk.java
+
+Start Processing: net/mcreator/opores/item/ItemTitaniumHalfRod.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumHalfRod/ItemTitaniumHalfRod (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemTitaniumHalfRod
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumHalfRod/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemTitaniumHalfRod/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1278,1290]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1299,1311]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1324,1342]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1401,1415]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1427,1431]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1477,1498]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1542,1563]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1628,1643]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemTitaniumHalfRod.java
+
+Start Processing: net/mcreator/opores/item/ItemTitaniumingot.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumingot/ItemTitaniumingot (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemTitaniumingot
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumingot/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemTitaniumingot/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1270,1282]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1291,1303]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1316,1334]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1389,1403]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1415,1419]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1465,1486]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1530,1551]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1616,1631]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemTitaniumingot.java
+
+Start Processing: net/mcreator/opores/item/ItemTitaniumrod.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumrod/ItemTitaniumrod (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemTitaniumrod
+FOUND CONSTR method net/mcreator/opores/item/ItemTitaniumrod/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemTitaniumrod/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1262,1274]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1283,1295]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1308,1326]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1377,1391]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1403,1407]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1453,1474]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1518,1539]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1604,1619]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemTitaniumrod.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbron.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbron/ItemUmbron (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbron
+New Key: class net/minecraft/item/ItemArmor
+Rename field net/minecraft/util/SoundEvent/REGISTRY[1477,1485]::REGISTRY->field_187505_a
+Rename method net/minecraft/util/registry/IRegistry/getObject (Ljava/lang/Object;)Ljava/lang/Object;[1492,1501]::getObject->func_82594_a
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1633,1651]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1700,1714]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[1726,1732]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1822,1840]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1885,1899]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[1911,1917]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[2006,2024]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2069,2083]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[2095,2101]::COMBAT->field_78037_j
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[2190,2208]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2255,2269]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[2281,2287]::COMBAT->field_78037_j
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.item.ItemArmor
+Import: net.minecraft.item.Item
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemUmbron.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbronBucket.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronBucket/ItemUmbronBucket (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbronBucket
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronBucket/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemUmbronBucket/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1267,1279]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1288,1300]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1312,1330]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1383,1397]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1409,1413]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1459,1480]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1524,1545]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1610,1625]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemUmbronBucket.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbronDust.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronDust/ItemUmbronDust (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbronDust
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronDust/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemUmbronDust/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1258,1270]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1279,1291]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1304,1322]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1371,1385]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1397,1401]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1447,1468]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1512,1533]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1598,1613]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemUmbronDust.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbronPickaxe.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronPickaxe/ItemUmbronPickaxe (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbronPickaxe
+Rename field net/minecraft/item/ItemTool/attackSpeed[1149,1160]::attackSpeed->field_185065_c
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1367,1385]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1430,1444]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[1456,1461]::TOOLS->field_78040_i
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemPickaxe
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Set
+Import: java.util.HashMap
+End  Processing: net/mcreator/opores/item/ItemUmbronPickaxe.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbroncrystal.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbroncrystal/ItemUmbroncrystal (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbroncrystal
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbroncrystal/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemUmbroncrystal/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1270,1282]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1291,1303]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1316,1334]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1389,1403]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1415,1419]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1465,1486]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1530,1551]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1616,1631]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemUmbroncrystal.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbroningot.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbroningot/ItemUmbroningot (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbroningot
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbroningot/ItemCustom/ItemCustom ()V net/mcreator/opores/item/ItemUmbroningot/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1262,1274]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1283,1295]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1308,1326]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1377,1391]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1403,1407]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1453,1474]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1518,1539]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1604,1619]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/ItemUmbroningot.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbronshovel.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronshovel/ItemUmbronshovel (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbronshovel
+Rename field net/minecraft/item/ItemTool/attackSpeed[1140,1151]::attackSpeed->field_185065_c
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1356,1374]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1417,1431]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/TOOLS[1443,1448]::TOOLS->field_78040_i
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemSpade
+Import: net.minecraft.item.Item
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Set
+Import: java.util.HashMap
+End  Processing: net/mcreator/opores/item/ItemUmbronshovel.java
+
+Start Processing: net/mcreator/opores/item/ItemUmbronsword.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/opores/item/ItemUmbronsword/ItemUmbronsword (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/ItemUmbronsword
+Rename method net/minecraft/item/Item/getItemAttributeModifiers (Lnet/minecraft/inventory/EntityEquipmentSlot;)Lcom/google/common/collect/Multimap;[1397,1422]::getItemAttributeModifiers->func_111205_h
+Rename method net/minecraft/item/Item/getItemAttributeModifiers (Lnet/minecraft/inventory/EntityEquipmentSlot;)Lcom/google/common/collect/Multimap;[1497,1522]::getItemAttributeModifiers->func_111205_h
+Rename field net/minecraft/entity/SharedMonsterAttributes/ATTACK_DAMAGE[1610,1623]::ATTACK_DAMAGE->field_111264_e
+Rename method net/minecraft/entity/ai/attributes/IAttribute/getName ()Ljava/lang/String;[1625,1632]::getName->func_111108_a
+Rename field net/minecraft/item/Item/ATTACK_DAMAGE_MODIFIER[1672,1694]::ATTACK_DAMAGE_MODIFIER->field_111210_e
+Rename method net/minecraft/item/ItemSword/getAttackDamage ()F[1721,1736]::getAttackDamage->func_150931_i
+Rename field net/minecraft/entity/SharedMonsterAttributes/ATTACK_SPEED[1786,1798]::ATTACK_SPEED->field_188790_f
+Rename method net/minecraft/entity/ai/attributes/IAttribute/getName ()Ljava/lang/String;[1801,1808]::getName->func_111108_a
+Rename field net/minecraft/item/Item/ATTACK_SPEED_MODIFIER[1848,1869]::ATTACK_SPEED_MODIFIER->field_185050_h
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[2117,2135]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2176,2190]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/COMBAT[2202,2208]::COMBAT->field_78037_j
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.common.util.EnumHelper
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemSword
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.inventory.EntityEquipmentSlot
+Import: net.minecraft.entity.ai.attributes.AttributeModifier
+Import: net.minecraft.entity.SharedMonsterAttributes
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.opores.ElementsOPOres
+Import: java.util.Set
+Import: java.util.HashMap
+Import: com.google.common.collect.Multimap
+End  Processing: net/mcreator/opores/item/ItemUmbronsword.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeAluminumIngot.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeAluminumIngot/RecipeAluminumIngot (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeAluminumIngot
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemAluminumDust
+Import: net.mcreator.opores.item.ItemAluminum
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeAluminumIngot.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeFairySmell.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeFairySmell/RecipeFairySmell (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeFairySmell
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemFairyIngot
+Import: net.mcreator.opores.item.ItemFairyDust
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeFairySmell.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeIngotMaking.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeIngotMaking/RecipeIngotMaking (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeIngotMaking
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemTitaniumrod
+Import: net.mcreator.opores.item.ItemTitaniumingot
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeIngotMaking.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeMeltedBucky.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeMeltedBucky/RecipeMeltedBucky (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeMeltedBucky
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemUmbronBucket
+Import: net.mcreator.opores.item.ItemIngotBucket
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeMeltedBucky.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeRodMaking.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeRodMaking/RecipeRodMaking (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeRodMaking
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemTitaniumrod
+Import: net.mcreator.opores.item.ItemTitaniumingot
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeRodMaking.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeTITINGOT.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeTITINGOT/RecipeTITINGOT (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeTITINGOT
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemTitaniumingot
+Import: net.mcreator.opores.item.ItemTitaniumChunk
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeTITINGOT.java
+
+Start Processing: net/mcreator/opores/item/crafting/RecipeUmIngot.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/item/crafting/RecipeUmIngot/RecipeUmIngot (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/item/crafting/RecipeUmIngot
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraft.item.ItemStack
+Import: net.mcreator.opores.item.ItemUmbroningot
+Import: net.mcreator.opores.item.ItemUmbronDust
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/item/crafting/RecipeUmIngot.java
+
+Start Processing: net/mcreator/opores/procedure/ProcedureCrusherProcedure.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/procedure/ProcedureCrusherProcedure/ProcedureCrusherProcedure (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/procedure/ProcedureCrusherProcedure
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[1701,1714]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[1813,1827]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[1856,1861]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[1949,1956]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[2016,2023]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[2150,2163]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[2266,2280]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[2311,2316]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[2408,2415]::getItem->func_77973_b
+Rename field net/minecraft/init/Items/COAL[2446,2450]::COAL->field_151044_h
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[2476,2483]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[2603,2616]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[2732,2746]::getStackInSlot->func_70301_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[2802,2810]::getCount->func_190916_E
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3042,3055]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[3158,3172]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[3203,3208]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[3300,3307]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[3375,3382]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3430,3443]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/decrStackSize (II)Lnet/minecraft/item/ItemStack;[3571,3584]::decrStackSize->func_70298_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3647,3660]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/decrStackSize (II)Lnet/minecraft/item/ItemStack;[3788,3801]::decrStackSize->func_70298_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3864,3877]::getTileEntity->func_175625_s
+Rename method net/minecraft/item/ItemStack/setCount (I)V[4081,4089]::setCount->func_190920_e
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[4198,4211]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[4329,4343]::getStackInSlot->func_70301_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[4401,4409]::getCount->func_190916_E
+Rename method net/minecraft/inventory/IInventory/setInventorySlotContents (ILnet/minecraft/item/ItemStack;)V[4570,4594]::setInventorySlotContents->func_70299_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[4739,4752]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[4851,4865]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[4894,4899]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[4987,4994]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[5052,5059]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[5186,5199]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[5302,5316]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[5347,5352]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[5444,5451]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[5519,5526]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[5646,5659]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[5775,5789]::getStackInSlot->func_70301_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[5845,5853]::getCount->func_190916_E
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[6085,6098]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[6201,6215]::getStackInSlot->func_70301_a
+Rename field net/minecraft/item/ItemStack/EMPTY[6246,6251]::EMPTY->field_190927_a
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6343,6350]::getItem->func_77973_b
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6416,6423]::getItem->func_77973_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[6471,6484]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/decrStackSize (II)Lnet/minecraft/item/ItemStack;[6612,6625]::decrStackSize->func_70298_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[6688,6701]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/decrStackSize (II)Lnet/minecraft/item/ItemStack;[6829,6842]::decrStackSize->func_70298_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[6905,6918]::getTileEntity->func_175625_s
+Rename method net/minecraft/item/ItemStack/setCount (I)V[7122,7130]::setCount->func_190920_e
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[7239,7252]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[7370,7384]::getStackInSlot->func_70301_a
+Rename method net/minecraft/item/ItemStack/getCount ()I[7442,7450]::getCount->func_190916_E
+Rename method net/minecraft/inventory/IInventory/setInventorySlotContents (ILnet/minecraft/item/ItemStack;)V[7611,7635]::setInventorySlotContents->func_70299_a
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.tileentity.TileEntityLockableLoot
+Import: net.minecraft.tileentity.TileEntity
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.init.Items
+Import: net.mcreator.opores.item.ItemUmbronDust
+Import: net.mcreator.opores.item.ItemAluminumDust
+Import: net.mcreator.opores.block.BlockUmbronore
+Import: net.mcreator.opores.block.BlockAluminumOre
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/procedure/ProcedureCrusherProcedure.java
+
+Start Processing: net/mcreator/opores/procedure/ProcedurePenisCommandExecuted.java
+New Key: class net/mcreator/opores/ElementsOPOres
+New Key: class net/mcreator/opores/ElementsOPOres
+FOUND CONSTR method net/mcreator/opores/procedure/ProcedurePenisCommandExecuted/ProcedurePenisCommandExecuted (Lnet/mcreator/opores/ElementsOPOres;)V net/mcreator/opores/procedure/ProcedurePenisCommandExecuted
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[839,854]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SLOWNESS[880,888]::SLOWNESS->field_76421_d
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.Entity
+Import: net.mcreator.opores.ElementsOPOres
+End  Processing: net/mcreator/opores/procedure/ProcedurePenisCommandExecuted.java
+

@@ -1,0 +1,16 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opores:cutter"
+    },
+    {
+      "item": "opores:titaniumrod"
+    }
+  ],
+  "result": {
+    "item": "opores:titaniumhalfrod",
+    "count": 2
+  }
+}

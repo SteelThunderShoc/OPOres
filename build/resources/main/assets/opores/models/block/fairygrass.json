@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opores:blocks/airyirt",
+    "up": "opores:blocks/airyrass",
+    "north": "opores:blocks/airyirt",
+    "east": "opores:blocks/airyirt",
+    "south": "opores:blocks/airyirt",
+    "west": "opores:blocks/airyirt",
+    "particle": "opores:blocks/airyirt"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "umbralore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "umbralore:umbroningot"
+    },
+    "1": {
+      "item": "umbralore:umbroningot"
+    },
+    "2": {
+      "item": "umbralore:umbroningot"
+    },
+    "3": {
+      "item": "umbralore:umbroningot"
+    },
+    "4": {
+      "item": "umbralore:umbroningot"
+    },
+    "5": {
+      "item": "umbralore:umbroningot"
+    },
+    "6": {
+      "item": "umbralore:umbroningot"
+    },
+    "7": {
+      "item": "umbralore:umbroningot"
+    },
+    "8": {
+      "item": "umbralore:umbroningot"
+    }
+  },
+  "result": {
+    "item": "umbralore:umbronblock",
+    "count": 1
+  }
+}

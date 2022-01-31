@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opores:blocks/itaniumre",
+    "up": "opores:blocks/itaniumre",
+    "north": "opores:blocks/itaniumre",
+    "east": "opores:blocks/itaniumre",
+    "south": "opores:blocks/itaniumre",
+    "west": "opores:blocks/itaniumre",
+    "particle": "opores:blocks/itaniumre"
+  }
+}

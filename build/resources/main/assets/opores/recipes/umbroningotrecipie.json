@@ -1,0 +1,13 @@
+{
+  "group": "opores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opores:umbronblock"
+    }
+  ],
+  "result": {
+    "item": "opores:umbroningot",
+    "count": 9
+  }
+}
